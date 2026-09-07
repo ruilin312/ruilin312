@@ -4,7 +4,7 @@
 
 
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Full-Stack+Engineer+%C2%B7+C%2B%2B+Developer+%C2%B7+Builder" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=16&pause=1000&width=435&lines=Full-Stack+Engineer+%C2%B7+C%2B%2B+Developer+%C2%B7+Builder" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -16,32 +16,55 @@
 ## 🚀 About Me
 
 ```cpp
-struct Ruilin final {
-	using FocusAreas = std::array<std::string_view, 3>;
+#include <array>
+#include <string_view>
 
-	static constexpr std::string_view role = "Full-Stack Engineer";
-	static constexpr FocusAreas focus = {
-		"Modern C++ & systems programming",
-		"Backend architecture & web applications",
-		"Performance, reliability & developer experience"
-	};
+struct Ruilin final
+{
+    using FocusAreas = std::array<std::string_view, 3>;
+    using SkillTags = std::array<std::string_view, 6>;
 
-	[[nodiscard]] static constexpr std::string_view motto() noexcept {
-		return "Build reliable software. Learn relentlessly. Share openly.";
-	}
+    static constexpr std::string_view name        = "Ruilin";
+    static constexpr std::string_view role        = "Full‑Stack Engineer & Open‑Source Developer";
+    static constexpr std::string_view github_handle = "ruilin2015";
+
+    static constexpr FocusAreas focus = {
+        "Modern C++ & systems programming",
+        "Backend architecture & web applications",
+        "Performance, reliability & developer experience"
+    };
+
+    static constexpr SkillTags skills = {
+        "C++23 / Python",
+        "React / Vue / TailwindCSS",
+        "Spring Boot",
+        "Windows",
+        "CMake / Docker",
+        "Game Modding"
+    };
+
+    [[nodiscard]] static constexpr std::string_view motto() noexcept
+    {
+        return "Build reliable software. Learn relentlessly. Share openly.";
+    }
+
+    [[nodiscard]] static constexpr std::string_view bio_short() noexcept
+    {
+        return "Independent developer, passionate about systems and full‑stack engineering.";
+    }
 };
 ```
 
-- I design and build reliable products from the systems layer to the user interface.
-- I enjoy using **C++** for high-performance services, tooling, and systems programming.
-- I also work across APIs, databases, frontend experiences, CI/CD, and cloud infrastructure.
-- I care about readable code, measurable performance, thoughtful UX, and continuous learning.
-- Currently exploring distributed systems, modern C++, and practical AI-assisted development.
+- 🏗️ I design and build reliable products from the systems layer to the user interface.
+- ⚡ I enjoy using **C++** for high-performance services, tooling, and systems programming.
+- 🚀 I also work across APIs, databases, frontend experiences, CI/CD, and cloud infrastructure.
+- 📈 I care about readable code, measurable performance, thoughtful UX, and continuous learning.
+- 🤖 Currently exploring distributed systems, modern C++, and practical AI-assisted development.
 
 ## 🧩 Tech Stack
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=cpp,c,python,typescript,react,nodejs,cmake,linux,docker,git,github,postgresql,redis,aws" alt="Technology stack: C++, C, Python, TypeScript, React, Node.js, CMake, Linux, Docker, Git, GitHub, PostgreSQL, Redis, AWS" />
+	<img src="https://skillicons.dev/icons?i=cpp,c,python,java,typescript,react,nodejs,cmake,linux,docker,git,github,postgresql,redis,aws" alt="Technology stack: C++, C, Python, TypeScript, React, Node.js, CMake, Linux, Docker, Git, GitHub, PostgreSQL, Redis, AWS" />
 </p>
 
 ## 📊 GitHub Stats
