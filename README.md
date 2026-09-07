@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=220&section=header&text=Hi,%20I'm%20Ruilin%20%F0%9F%91%8B&fontSize=72&fontColor=FFFFFF&fontAlignY=38" alt="Ruilin profile header" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=220&section=header&text=Hi,%20I'm%20Ruilin%20%F0%9F%91%8B&fontSize=72&fontColor=FFFFFF&fontAlignY=38" alt="Ruilin profile header" width="100%" />
 </p>
 
 
@@ -7,6 +7,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=16&pause=1000&width=435&lines=Full-Stack+Engineer+%C2%B7+C%2B%2B+Developer+%C2%B7+Builder" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
 <p align="center">
 	<a href="https://github.com/ruilin312"><img src="https://img.shields.io/github/followers/ruilin312?label=Followers&style=for-the-badge&color=2563EB" alt="GitHub followers" /></a>
 	<a href="https://github.com/ruilin312?tab=repositories"><img src="https://img.shields.io/github/stars/ruilin312?label=Stars&style=for-the-badge&color=F59E0B" alt="GitHub stars" /></a>
@@ -88,5 +89,5 @@ struct Ruilin final
 </p>
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F766E&height=110&section=footer" alt="Profile footer" width="100%" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=110&section=footer&animation=fadeIn&strokeColor=ffffff33&strokeWidth=1" alt="Profile footer" width="100%" />
 </p>
